@@ -1,5 +1,6 @@
 ## PPG Industry Talk Reflection</h2>
 
+![image alt](https://github.com/fatinnorhisham/PGG-TALK-INDUSTRY-TALK-1-/blob/56da326cf04a149257aa7bdcc0c76610a277b801/ppg.jpeg)
 
 <strong>Course:</strong> SECP 1513 – Technology Information and System<br>
 <strong>Date:</strong> 20 November 2025<br>
